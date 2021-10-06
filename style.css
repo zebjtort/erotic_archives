@@ -1,0 +1,23 @@
+h1 {
+color:purple;
+font-family:helvetica;
+padding:50px;
+}
+
+
+
+p {
+color:pink;
+font-family:helvetica;
+}
+
+
+body {
+background-color:black;
+}
+
+
+img {
+border: 5px solid fuchsia;
+margin-left: 100px
+}
